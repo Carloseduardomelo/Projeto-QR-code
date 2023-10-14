@@ -1,0 +1,99 @@
+@media (max-width: 550px) and (min-width: 400px){
+    main{
+        width: 70%;
+    }
+}
+@media (max-width: 750px) and (min-width: 600px){
+    main{
+        width: 50%;
+        height: 60%;
+    }
+
+    img{
+        width: 100%;
+    }
+
+    #img{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #infs{
+
+    }
+}
+
+@media (max-width: 800px) and (min-width: 700px){
+    main{
+        width: 45%;
+    }
+    #infs h2{
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 915px) and (min-width: 800px){
+    main{
+        width: 40%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+@media (max-width: 1050px) and (min-width: 915px){
+    main{
+        width: 35%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+@media (max-width: 1110px) and (min-width: 1050px){
+    main{
+        width: 33%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+@media (max-width: 1230px) and (min-width: 1110px){
+    main{
+        width: 30%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+@media (max-width: 1430px) and (min-width: 1230px){
+    main{
+        width: 25%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+@media (max-width: 1930px) and (min-width: 1430px){
+    main{
+        width: 20%;
+        height: 58%;
+    }
+    #infs h2{
+        width: 91%;
+    }
+}
+
+@media (max-width: 19930px) and (min-width: 1930px){
+    main{
+        width: 20%;
+        height: 72%;
+    }
+    #infs h2{
+        width: 91%;
+        font-size: 30px;
+    }
+    #infs p{
+        font-size: 25px;
+    }
+}
